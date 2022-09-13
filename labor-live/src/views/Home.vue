@@ -604,7 +604,6 @@ export default defineComponent({
         })
         .then((res: any) => {
           if (res.data.code == 200) {
-            console.log(111);
             store.$patch({
               liveTitle: res.data.result.name,
               liveBrowse: res.data.result.viewPersonTime,

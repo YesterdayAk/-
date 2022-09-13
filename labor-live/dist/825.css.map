@@ -1,0 +1,1 @@
+{"version":3,"file":"825.css","mappings":"AACA,yBACE,qEAAwE,CACxE,yBAA0B,CAC1B,gBAAiB","sources":["webpack://labor-live/./src/views/Remind/Remind.vue"],"sourcesContent":["\r\n.remind {\r\n  background: url(\"https://res1.qdszgh.cn/laborLive/remind.png\") no-repeat;\r\n  background-size: 100% 100%;\r\n  min-height: 100vh;\r\n}\r\n"],"names":[],"sourceRoot":""}

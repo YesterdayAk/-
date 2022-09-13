@@ -1,0 +1,1 @@
+{"version":3,"file":"863.css","mappings":"AACA,4BACE,wEAA2E,CAC3E,yBAA0B,CAC1B,gBAAiB","sources":["webpack://labor-live/./src/views/Forbidden/Forbidden.vue"],"sourcesContent":["\r\n.forbidden {\r\n  background: url(\"https://res1.qdszgh.cn/laborLive/forbidden.png\") no-repeat;\r\n  background-size: 100% 100%;\r\n  min-height: 100vh;\r\n}\r\n"],"names":[],"sourceRoot":""}

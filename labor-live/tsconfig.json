@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "strict": true,
+    "jsx": "preserve",
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "baseUrl": "./", //基本目录，用于解析非相对模块名称
+    "paths": {
+      "@/*": [
+        "src/*"
+      ] //指定要相对于baseUrl 选项计算别名的路径映射
+    },
+    "experimentalDecorators": true //为ES装饰器提案提供实验支持
+  },
+  "exclude": [
+    "node_module",
+    "dist"
+  ]
+}

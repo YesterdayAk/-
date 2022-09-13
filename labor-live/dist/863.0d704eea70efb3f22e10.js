@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklabor_live=self.webpackChunklabor_live||[]).push([[863],{6863:(e,a,d)=>{d.r(a),d.d(a,{default:()=>c});var n=d(6252),r={class:"forbidden"};const s=(0,n.aZ)({name:"forbidden"});const c=(0,d(3744).Z)(s,[["render",function(e,a,d,s,c,i){return(0,n.wg)(),(0,n.iD)("div",r)}],["__scopeId","data-v-6bc5a3d6"]])}}]);
+//# sourceMappingURL=863.0d704eea70efb3f22e10.js.map

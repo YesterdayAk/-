@@ -596,7 +596,6 @@ export default defineComponent({
     };
     //获取直播信息
     function getLiveInfo() {
-      console.log(111);
       axios
         .get(axios.defaults.baseURL + "/jeecg-boot/live/api/getLive", {
           params: {
